@@ -1,15 +1,19 @@
-<h2 align="center">Full Stack Developer</h2>
+<h2 align="left">About Me</h2>
 
 ###
 
-<h2 align="left">Tecnologias que tenho práticas</h2>
+<p align="left">- Full Stack Developer<br>- Software Engineering Student</p>
+
+###
+
+<h2 align="left">Technologies that I have practices</h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
@@ -30,7 +34,7 @@
 
 ###
 
-<h2 align="left">GitHub Estatísticas</h2>
+<h2 align="left">GitHub Stats</h2>
 
 ###
 
